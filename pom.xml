@@ -29,7 +29,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <activemq.version>5.9.0.redhat-610379</activemq.version>
+<!--        <activemq.version>5.9.0.redhat-610379</activemq.version>-->
+        <activemq.version>5.9.0.redhat-611412</activemq.version>    
 
         <qpid.version>0.24</qpid.version>
 
